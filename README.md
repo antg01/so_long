@@ -1,5 +1,3 @@
-
-```markdown
 # so_long
 
 ## About
@@ -57,5 +55,3 @@ You can create custom maps by placing `.ber` files in the `maps` directory. Each
 
 - MiniLibX library for graphical rendering
 - 42 Network for the project inspiration
-
-```
